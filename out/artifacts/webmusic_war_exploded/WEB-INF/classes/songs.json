@@ -1,0 +1,53 @@
+{
+  "songs":[
+    {
+      "id":"1000001",
+      "name":"Grenade",
+      "singer":"Bruno Mars",
+      "publicYear":2010,
+      "musicUrl":"/static/mp3/Bruno Mars - Grenade.mp3",
+      "albumUrl":"/static/album/5498657650585127.jpeg"
+    },
+    {
+      "id":"1000002",
+      "name":"Children Of The Night [We Are] (DJ Antoine vs Mad Mark 2k13 Radio Edit)",
+      "singer":"DJ Antoine,Morandi",
+      "publicYear":2015,
+      "musicUrl":"/static/mp3/Children Of The Night [We Are] (DJ Antoine vs Mad Mark 2k13 Radio Edit).mp3",
+      "albumUrl":"/static/album/6658642418799653.jpeg"
+    },
+    {
+      "id":"1000003",
+      "name":"Leave Me Out",
+      "singer":"July Child",
+      "publicYear":2014,
+      "musicUrl":"/static/mp3/July Child - Leave Me Out.mp3",
+      "albumUrl":"/static/album/3326022674826976.jpeg"
+
+    },
+    {
+      "id":"1000004",
+      "name":"Good Luck",
+      "singer":"Lenachka",
+      "publicYear":2014,
+      "musicUrl":"/static/mp3/Lenachka - Good Luck.mp3",
+      "albumUrl":"/static/album/2538772348746148.jpeg"
+    },
+    {
+      "id":"1000005",
+      "name":"你还要我怎样",
+      "singer":"薛之谦",
+      "publicYear":2013,
+      "musicUrl":"/static/mp3/薛之谦 - 你还要我怎样.mp3",
+      "albumUrl":"/static/album/5816416510959096.jpeg"
+    },
+    {
+      "id":"1000006",
+      "name":"童话镇",
+      "singer":"陈一发儿",
+      "publicYear":2016,
+      "musicUrl":"/static/mp3/陈一发儿 - 童话镇",
+      "albumUrl":"/static/album/3394192426154346.jpeg"
+    }
+  ]
+}
