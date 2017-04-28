@@ -8,7 +8,7 @@ public class MusicBean {
     private long id;
     private String name;
     private String singer;
-    private String publicYear;
+    private int publicYear;
     private String musicUrl;
     private String albumUrl;
 
@@ -36,11 +36,11 @@ public class MusicBean {
         this.singer = singer;
     }
 
-    public String getPublicYear() {
+    public int getPublicYear() {
         return publicYear;
     }
 
-    public void setPublicYear(String publicYear) {
+    public void setPublicYear(int publicYear) {
         this.publicYear = publicYear;
     }
 
